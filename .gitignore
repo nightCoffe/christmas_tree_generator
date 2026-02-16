@@ -30,3 +30,4 @@ __pycache__/
 *.pyc
 
 Thumbs.db
+.github/workflows/*.log

@@ -1,3 +1,9 @@
+[![Playwright Tests CI](https://github.com/nightCoffe/christmas_tree_generator/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/nightCoffe/christmas_tree_generator/actions/workflows/playwright-tests.yml)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ASCII-генератор новогодней елки на TypeScript с автоматизированным тестированием на Playwright.
 
 ##  Описание
@@ -5,6 +11,8 @@ ASCII-генератор новогодней елки на TypeScript с авт
 Проект treeNext генерирует красивую ASCII-елку с возможностью указать количеством уровней и сохраняет её в текстовый файл по указанному адресу. По умолчанию выводит 5 уровней и сохраняет в файл tree.txt
 
 Проект treeSimple упрощенный вариант генератора без возможности задать количество уровней и путь к выходному файлу.
+
+
 
 ##  Генерация елки
 
