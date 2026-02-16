@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+🎄 Merry Christmas!
+
 ASCII-генератор новогодней елки на TypeScript с автоматизированным тестированием на Playwright.
 
 ##  Описание
